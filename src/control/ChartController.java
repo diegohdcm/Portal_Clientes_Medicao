@@ -22,7 +22,7 @@ public class ChartController implements Serializable {
 
 	private String data;
 	private String valor;
-	private List<Registros_leitura_medicao> datalist;
+	private List<Registros_leitura_medicao> datalistr;
 
 	@PostConstruct
 	public void init() {
@@ -49,11 +49,11 @@ public class ChartController implements Serializable {
 	}
 
 	public List<Registros_leitura_medicao> getDatalist() {
-		return datalist;
+		return datalistr;
 	}
 
 	public void setDatalist(List<Registros_leitura_medicao> datalist) {
-		this.datalist = datalist;
+		this.datalistr = datalist;
 	}
 
 }
