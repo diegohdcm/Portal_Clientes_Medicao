@@ -271,13 +271,13 @@ if (request.getSession().getAttribute("EMAIL_USU")==null || request.getSession()
 	google.maps.event.addDomListener(window, 'load', init_map);
 </script>
 
-<!-- Chama o modal SessãoExpirada -->
-<script type="text/javascript">
-	$(window).on('load', function() {
-		setTimeout(function() {
-			$('#modalSessaoExpirada').modal('show');
-		}, 10000);
-	});
-</script>
+<!-- <!-- Chama o modal SessãoExpirada -->
+<!-- <script type="text/javascript"> -->
+<!-- // 	$(window).on('load', function() { -->
+<!-- // 		setTimeout(function() { -->
+<!-- // 			$('#modalSessaoExpirada').modal('show'); -->
+<!-- // 		}, 10000); -->
+<!-- // 	}); -->
+<!-- </script> -->
 
 </html>

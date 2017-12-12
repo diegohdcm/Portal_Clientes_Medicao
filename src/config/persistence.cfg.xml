@@ -5,9 +5,9 @@
 		<property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
 		<property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
 		<property name="hibernate.connection.url">jdbc:postgresql://hidro_portal.postgresql.dbaas.com.br/hidro_portal</property>
-		<property name="hibernate.connection.username">hidro_portal</property>
+		<property name="hibernate.connection.username">oi</property>
 		<property name="hibernate.hbm2ddl.auto">update</property>
-		<property name="hibernate.connection.password">XevuWEq5</property>
+		<property name="hibernate.connection.password">oi</property>
 		<property name="hibernate.show_sql">true</property>
 		<property name="hibernate.format_sql">true</property>
 		

@@ -23,38 +23,7 @@
 </head>
 
 <body>
-<!-- <!-- Modal Tempo expirado (Deslogar) -->
-<!-- 	<div id="modalSessaoExpirada" class="modal fade" role="dialog" draggable="false" data-backdrop="static"> -->
-<!-- 		<div class="modal-dialog modal-sm"> -->
 
-<!-- 			<!-- painel--> 
-
-
-
-<!-- 			<div class="panel panel-info"> -->
-
-<!-- 				<div class="panel panel-heading"> -->
-<!-- 					<div class="panel-title text-center">Sessão expirada!</div> -->
-<!-- 				</div> -->
-<!-- 				<div class="text-center"> -->
-<!-- 					Tempo excedido de conecção, favor realizar login novamente.<br /> -->
-<!-- 				</div> -->
-				
-
-<!-- 				<div class="modal-footer" -->
-<!-- 					style="margin-top: 0px; margin-bottom: 5px"> -->
-					
-<!-- 					<div class="text-center"> -->
-						
-<!-- 					</div> -->
-					
-<!-- 					<a type="submit" class="btn btn-danger btn-sm" -->
-<!-- 				href="Controle?cmd=sair">OK</a> -->
-<!-- 				</div> -->
-<!-- 			</div> -->
-<!-- 		</div> -->
-<!-- 	</div> -->
-<!-- 	<!-- FIM MODAL -->
 	
 	
 	<div class="modal-dialog">
@@ -101,14 +70,7 @@
 	</div>
 
 </body>
-<!-- Chama o modal SessãoExpirada -->
-<script type="text/javascript">
-	$(window).on('load', function() {
-		setTimeout(function() {
-			$('#modalSessaoExpirada').modal('show');
-		}, 10000);
-	});
-</script>
+
 
 </html>
 
