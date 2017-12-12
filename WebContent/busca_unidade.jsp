@@ -31,7 +31,7 @@
 					<img src="img/logo-ntransp3.png" class="img-logo">
 				</div>
 				<h3 class="modal-title text-center" id="myModalLabel">Cadastro
-					de Unidades</h3>
+					de</h3>
 			</div>
 
 			<div class="modal-body">
