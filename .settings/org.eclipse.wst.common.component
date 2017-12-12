@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Portal_Clientes_Medicao">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Portal_Clientes_Medicao"/>
+        <property name="java-output-path" value="/Portal_Clientes_Medicao/build/classes"/>
+    </wb-module>
+</project-modules>

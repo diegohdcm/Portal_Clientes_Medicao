@@ -1,0 +1,29 @@
+[
+    {
+	 "data_da_leitura":"jul 19, 2017",
+     "consumo":4.0,
+     "valor_consumo_unidade":89.43,
+     "valor_rateio_area_comum":1.55664,
+     "valor_consumo_total":90.98664,
+     "bloco":"00",
+     "unidade":"1009"
+	 },
+    {
+	"data_da_leitura":"jun 21, 2017",
+     "consumo":3.0,
+     "valor_consumo_unidade":88.08,
+     "valor_rateio_area_comum":1.55642,
+     "valor_consumo_total":89.63642,
+     "bloco":"00",
+     "unidade":"1009"
+	 },
+    {
+	"data_da_leitura":"mai 26, 2017",
+	"consumo":6.0,
+	"valor_consumo_unidade":98.55,
+	"valor_rateio_area_comum":1.54327,
+	"valor_consumo_total":100.09327,
+	"bloco":"00",
+	"unidade":"1009      "
+	},
+	{"data_da_leitura":"abr 24, 2017","consumo":2.0,"valor_consumo_unidade":82.68,"valor_rateio_area_comum":1.54349,"valor_consumo_total":84.22349,"bloco":"00","unidade":"1009      "},{"data_da_leitura":"mar 23, 2017","consumo":2.0,"valor_consumo_unidade":77.6,"valor_rateio_area_comum":1.54395,"valor_consumo_total":79.14395,"bloco":"00","unidade":"1009      "},{"data_da_leitura":"fev 20, 2017","consumo":3.0,"valor_consumo_unidade":79.12,"valor_rateio_area_comum":1.54349,"valor_consumo_total":80.66349,"bloco":"00","unidade":"1009      "},{"data_da_leitura":"jan 23, 2017","consumo":1.0,"valor_consumo_unidade":72.77,"valor_rateio_area_comum":1.54329,"valor_consumo_total":74.31329,"bloco":"00","unidade":"1009      "},{"data_da_leitura":"dez 23, 2016","consumo":1.0,"valor_consumo_unidade":67.06,"valor_rateio_area_comum":1.4418,"valor_consumo_total":68.5018,"bloco":"00","unidade":"1009      "},{"data_da_leitura":"nov 25, 2016","consumo":1.0,"valor_consumo_unidade":71.17,"valor_rateio_area_comum":1.44201,"valor_consumo_total":72.61201,"bloco":"00","unidade":"1009      "},{"data_da_leitura":"out 27, 2016","consumo":2.0,"valor_consumo_unidade":79.62,"valor_rateio_area_comum":1.44201,"valor_consumo_total":81.06201,"bloco":"00","unidade":"1009      "},{"data_da_leitura":"set 27, 2016","consumo":3.0,"valor_consumo_unidade":66.74,"valor_rateio_area_comum":1.31468,"valor_consumo_total":68.05468,"bloco":"00","unidade":"1009      "},{"data_da_leitura":"ago 25, 2016","consumo":2.0,"valor_consumo_unidade":67.88,"valor_rateio_area_comum":0.66,"valor_consumo_total":68.54,"bloco":"00","unidade":"1009      "}]
